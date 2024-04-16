@@ -1,4 +1,4 @@
-volumes
-data
+#volumes
+#data
 certs
 .env
